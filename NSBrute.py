@@ -13,8 +13,6 @@ victimDomain=""
 targetNS=[]
 nsRecord=0
 
-# mardin writes bad code
-
 class bcolors:
     TITLE = '\033[95m'
     OKBLUE = '\033[94m'
