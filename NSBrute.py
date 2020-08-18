@@ -13,7 +13,7 @@ victimDomain=""
 targetNS=[]
 nsRecord=0
 
-# another test
+# another test 3edfkjndksjn
 
 class bcolors:
     TITLE = '\033[95m'
